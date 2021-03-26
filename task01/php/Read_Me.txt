@@ -1,0 +1,1 @@
+Shift php files into c:\xampp\htdocs\ or change your DocumentRoot and Directory path C:\xampp\apache\conf to ...\taks01\php\

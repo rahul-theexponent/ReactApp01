@@ -1,0 +1,38 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+.fontStyle{
+  font-family: 'Roboto', sans-serif;
+  list-style: none;
+  margin: 10px;
+}
+
+.inputWidth{
+  width: 500px;
+}
+
+.formCenterAlign{
+  width: 500px;
+  margin: 10px auto;
+}
+
+.manualCard{
+  width: 20rem;
+  height: 20rem;
+  margin: 0px 5px;
+  border: 1px black solid;
+  padding: 10px;
+  float:left;
+  /* text-align: center; */
+}
